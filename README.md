@@ -1,1 +1,2 @@
-# portfolio
+# react-portfolio
+    react-packages: @fortawesome/free-brands-svg-icon, @fortawesome/free-solid-svg-icons, @fortawesome/react-fontawesome, animate.css, gsap-trial, loaders.css, react-leaflet, react-loaders, react-router-dom, sass
